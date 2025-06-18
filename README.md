@@ -8,12 +8,19 @@
 To enable and establish a secure SSH (Secure Shell) connection with the Raspberry Pi, allowing remote terminal access for configuration and control.
 ## APPARATUS REQUIRED:
 S.No	Component	Quantity
+
 1	Raspberry Pi board (any model)	1
+
 2	MicroSD card with Raspberry Pi OS	1
-3	Computer or Laptop	1
-4	Power adapter for Raspberry Pi	1
+
+3	Computer or Laptop	
+
+4	Power adapter for Raspberry Pi	
+
 5	Ethernet cable or Wi-Fi network	1
+
 6	SSH Client (e.g., PuTTY/Terminal)	1
+
 ## THEORY:
 SSH (Secure Shell) is a cryptographic network protocol used for secure data communication, remote command-line login, and remote command execution. Enabling SSH on a Raspberry Pi allows users to access and control the device remotely through a terminal or command prompt from another system on the same network.
 
